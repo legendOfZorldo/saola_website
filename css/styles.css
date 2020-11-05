@@ -21,6 +21,15 @@ p {
     font-family: 'Nunito Sans', sans-serif;
 }
 
+.icon:hover,
+.icon:focus {
+    fill: #FFD2E4;
+}
+
+svg path {
+    fill: #cccccc;
+}
+
 #saola_text {
     height: 20px;
     margin-bottom: 25px;
