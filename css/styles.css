@@ -12,6 +12,13 @@
 }
 
 html, body {
-    background-color: #3EBA9B;
+    background-color: #181818;
     text-align: center;
+    color: #cccccc;
+    height: 100%;
+}
+
+.fill { 
+    min-height: 100%;
+    height: 100%;
 }
