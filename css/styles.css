@@ -17,8 +17,29 @@ html, body {
     color: #cccccc;
     height: 100%;
 }
+p {
+    font-family: 'Nunito Sans', sans-serif;
+}
 
+#saola_text {
+    height: 20px;
+    margin-bottom: 25px;
+}
+#saola_icon {
+    margin-bottom: 25px;
+}
+#follow_margin {
+    margin-bottom: 5px;
+}
+
+.svgColor {
+    fill: #cccccc;
+}
 .fill { 
     min-height: 100%;
     height: 100%;
 }
+.noMargin {
+    margin-bottom: 0px;
+}
+
